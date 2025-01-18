@@ -1,4 +1,4 @@
-# Automatic-Face-Attendance-System-Project
+# Automatic Face Attendance System Project
 Automatic Face Attendance System Project Code, Document And Vidoe Tutorial
 
 ![Automatic Attendance](https://github.com/user-attachments/assets/571bc5fc-0a94-4cce-a92b-752b414eccf6)
